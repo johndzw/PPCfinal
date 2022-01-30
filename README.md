@@ -10,3 +10,6 @@ Processing image // Warning screen if code wrong, pass screen if code right\
 Processing file access // List that keeps warnings/passes with timestamp\
 Interaction // Inputting the code\
 
+Files needed // Film of working setup, PDF file with description, image, code, schematics, design
+
+
